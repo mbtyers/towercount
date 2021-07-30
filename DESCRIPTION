@@ -1,0 +1,14 @@
+Package: towercount
+Type: Package
+Title: Escapement Estimates for River Tower Counts
+Version: 0.1
+Date: 2015-10-22
+Author: Matt Tyers [aut, cre]
+Authors@R: person("Matt", "Tyers", email = "matt.tyers@alaska.gov",
+    role = c("aut", "cre"))
+Maintainer: Matt Tyers <matt.tyers@alaska.gov>
+Description: Provides escapement estimates with associated variance for river
+    tower counts. Also included are functions to visualize and write summary tables.
+License: GPL (>=2)
+LazyData: TRUE
+RoxygenNote: 6.1.0
